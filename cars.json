@@ -1,4 +1,32 @@
-
+{
+    "features": [{
+        "image": "reliant.jpg",
+        "carname": "Wobbly Wheeler",
+        "category": "budget",
+        "people": 4,
+        "suitcases": 1,
+        "priceperday": 100
+       
+    },
+   {
+        "image": "standard.jpg",
+        "carname": "Supreme Standard",
+        "category": "standard",
+        "people": 5,
+        "suitcases": 3,
+        "priceperday": 160
+        
+    },
+    {
+        "image": "minivan.jpg",
+        "carname": "Vacay Bus Deluxe",
+        "category": "minivan",
+        "people": 7,
+        "suitcases": 5,
+        "priceperday": 205
+    
+    }
+]}
 
 
 
